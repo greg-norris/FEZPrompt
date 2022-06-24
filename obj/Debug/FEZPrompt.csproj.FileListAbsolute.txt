@@ -1,0 +1,17 @@
+C:\Users\GHI\Source\Repos\FEZPrompt\bin\Debug\FEZPrompt.exe
+C:\Users\GHI\Source\Repos\FEZPrompt\bin\Debug\FEZPrompt.pdb
+C:\Users\GHI\Source\Repos\FEZPrompt\bin\Debug\GHIElectronics.TinyCLR.Devices.Display.dll
+C:\Users\GHI\Source\Repos\FEZPrompt\bin\Debug\GHIElectronics.TinyCLR.Devices.Gpio.dll
+C:\Users\GHI\Source\Repos\FEZPrompt\bin\Debug\GHIElectronics.TinyCLR.Devices.Storage.dll
+C:\Users\GHI\Source\Repos\FEZPrompt\bin\Debug\GHIElectronics.TinyCLR.Drawing.dll
+C:\Users\GHI\Source\Repos\FEZPrompt\bin\Debug\GHIElectronics.TinyCLR.IO.dll
+C:\Users\GHI\Source\Repos\FEZPrompt\bin\Debug\GHIElectronics.TinyCLR.Native.dll
+C:\Users\GHI\Source\Repos\FEZPrompt\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+C:\Users\GHI\Source\Repos\FEZPrompt\bin\Debug\mscorlib.dll
+C:\Users\GHI\Source\Repos\FEZPrompt\obj\Debug\FEZPrompt.csprojAssemblyReference.cache
+C:\Users\GHI\Source\Repos\FEZPrompt\obj\Debug\FEZPrompt.Properties.Resources.resources
+C:\Users\GHI\Source\Repos\FEZPrompt\obj\Debug\FEZPrompt.csproj.GenerateResource.cache
+C:\Users\GHI\Source\Repos\FEZPrompt\obj\Debug\FEZPrompt.csproj.CoreCompileInputs.cache
+C:\Users\GHI\Source\Repos\FEZPrompt\obj\Debug\FEZPrompt.csproj.CopyComplete
+C:\Users\GHI\Source\Repos\FEZPrompt\obj\Debug\FEZPrompt.exe
+C:\Users\GHI\Source\Repos\FEZPrompt\obj\Debug\FEZPrompt.pdb
